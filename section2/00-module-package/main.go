@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"go-basics/calculator"
+	"go-basics/section2/00-module-package/calculator"
 	"os"
 
 	"github.com/joho/godotenv"
